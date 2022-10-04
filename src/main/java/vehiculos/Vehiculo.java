@@ -69,8 +69,8 @@ public class Vehiculo {
 	public Fabricante getFabricante() {
 		return this.fabricante;
 	}
-	public void setFabricante(Fabricante señor) {
-		this.fabricante=señor;
+	public void setFabricante(Fabricante senor) {
+		this.fabricante=senor;
 	}
 	public static int getCantidadVehiculos() {
 		return cantidadVehiculos;
